@@ -52,7 +52,7 @@ still can't reach it.
 ## Results — the 20-endpoint live probe
 
 | # | Chain | Agent ID | Endpoint (as indexed) | cardtool verdict (verbatim) | HTTP evidence |
-|---|---|-------|-----------------------|-----------------------------|---------------|
+|---|-------|----------|-----------------------|-----------------------------|---------------|
 | 1 | Base | 19655 | https://mcp.dexter.cash/mcp | SIGNPOST MISSING/UNREACHABLE | 404 |
 | 2 | Base | 21272 | https://wild-west-bots.vercel.app/api/agents/0x990f1d2959c896bcb4071a8dd9c4765e28d653f2/a2a | SIGNPOST MISSING/UNREACHABLE | 404 |
 | 3 | Base | 24377 | https://agent-8.repustream.xyz/mcp | SIGNPOST MISSING/UNREACHABLE | connection closed by host |
